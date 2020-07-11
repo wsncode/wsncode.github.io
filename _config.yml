@@ -10,13 +10,13 @@ baseurl: "/wsncode.github.io"         # for example, '/blog' if your blog hosted
 
 
 
-# # SNS settings
-# RSS: false
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
-# github_username:    huxpro
-# #twitter_username:  huxpro
-# facebook_username:  huxpro
+# SNS settings
+RSS: false
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+#twitter_username:  huxpro
+facebook_username:  huxpro
 
 
 
