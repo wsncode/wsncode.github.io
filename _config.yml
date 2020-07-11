@@ -2,8 +2,8 @@
 title: Saunan's Blog
 SEOTitle: Saunan's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "Cool Blog"
+email: shaonan_wei@163.com
+description: "小憩休闲~"
 keyword: ""
 url: "https://wsncode.github.io"              # your host, for absolute URL
 baseurl: "/wsncode.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,10 +59,10 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -80,21 +80,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# friends: [
+#     {
+#         title: "Hux Blog",
+#         href: "http://huangxuan.me"
+#     },{
+#         title: "Foo",
+#         href: "#"
+#     },{
+#         title: "Bar",
+#         href: "#"
+#     },{
+#         title: "Example Friends",
+#         href: "#"
+#     },{
+#         title: "It helps SEO",
+#         href: "#"
+#     }
+# ]
