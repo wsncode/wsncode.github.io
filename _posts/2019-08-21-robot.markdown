@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "PRCV2019--Submission"
+subtitle:   " The first international conference paper in life!""
+date:       2019-04-30 12:00:00
+author:     "Saunan"
+header-img: "img/01.post.jpg"
+tags:
+    - 机器人
+    - 语音交互
+    - SLAM
+    - 人脸检测
+---
+
+> “异构多机器人智能协作系统”
+
+
+<iframe 
+    height=450 
+    width=800 
+    src="https://www.bilibili.com/video/BV1Eg4y1i7Hp" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
+
+
+## 项目描述：
+
+项目面向众多在研及新兴的机器视觉算法及应用提供具体的实际应用平台，从而促进新兴研究成果向实际应用场景发展迈进。项目基于2D激光雷达SLAM实现地图构建、机器人定位及导航，配合语音交互完成上述任务功能，同时提供对话交流、人脸识别等人机交互实现。平台提供对外API接口（如语音接口、视觉接口及导航命令接口）供后续应用扩展。
+
+## 责任描述：
+
+(一)	负责语音交互模块的设计及开发，包含语音唤醒、语音识别、对话交流及语料数据维护；
+(二)	负责声源定位功能实现，要求机器人可以识别并自动转向唤醒人的方位；
+(三)	负责语音模块与SLAM建图、定位、导航功能的连接部署及开发测试。
