@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "ACCV2020--Submission"
+subtitle:   "亚洲计算机视觉顶会投稿"
+date:       2020-07-08 12:00:00
+author:     "Saunan"
+header-img: "img/01.post.jpg"
+tags:
+    - paper
+    - REC
+    - CV
+    - NLP
+---
+
+> “ACCV2020--Keyoto”
+
+
+## Visual Grounding of Invisible Subjects in Indoor Scenes using Learned Common Sense Graph
+
+Visual Grounding is a task that requires to locate the subject mentioned by the text expression in scene frame images. When trying to achieve it in a 3D indoor scene with a robot, we found that subjects are often invisible due to factors such as occlusion and agent pose. Generally, the existing Visual Grounding frameworks assume that the subject is visible, which will face a great difficulty to find the invisible subject in current images. How do humans do this task? They usually use the info of visual and textual, combined with the common sense of life they have constantly learned to get reasonable path inferences to interact with the environment, and eventually find the subject in the field of view and within a threshold of distance. Inspired by this, we first build a common sense graph that can be constantly updated by the semantic attributes of scene frame images and text expressions. Second, we integrate a deep reinforcement learning model with learned common sense embedding to generate reasonable action path for invisible subjects. Finally, we verified the feasibility of the method on AI2-THOR simulator, showing the advantage of dynamic common sense learning on the grounding of invisible subjects and the generalization of unseen scenes.
+
+![The Architecture Fig...](/img/03.inside.jpg)
