@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "PRCV2019--Submission"
+subtitle:   " The first international conference paper in life!""
+date:       2019-04-30 12:00:00
+author:     "Saunan"
+header-img: "img/02.post.jpg"
+tags:
+    - Paper
+	- REC
+	- Attributes
+	- CV
+	- NLP
+---
+
+> “PRCV2019--Xi'an (毕业小论文完成了！)”
+
+
+## Scenario Referring Expression Comprehension via Attributes of Vision and Language
+
+Referring Expression Comprehension (REC) is a task that to indicate particular objects within an image by natural language expressions. Previous studies on this task have assumed that the language expression and the image are one-to-one correspondence; that is, the language refers to the target region must exist in the current image and then the region with the highest score will be located, no matter whether they match or not. However, in practical applications, REC is required to locate the reference target region from a series of matched, partially matched and mismatched scene image sequences. This task is referred as Scenario Referring Expression Comprehension (SREC) in this paper. To accomplish such a task, this paper made a test set for SREC task based on the existing real-scenario data set enhancement, constructed a Dual Attributes Recursive Retrieve Reasoning Model for the first time with the Attributes of both images and expressions, and finally verified the feasibility of the method on the test set by tests with three different types of enhanced expression.
+
+![The Architecture Fig...](img/02.inside.jpg)
