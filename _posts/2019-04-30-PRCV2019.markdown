@@ -4,7 +4,7 @@ title:      "PRCV2019--Submission"
 subtitle:   "The first international conference paper in life!""
 date:       2019-04-30 12:00:00
 author:     "Saunan"
-header-img: "img/02.post.jpg"
+header-img: "img/02.post.png"
 tags:
     - Paper
     - REC
