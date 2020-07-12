@@ -7,7 +7,7 @@ author:     "Saunan"
 header-img: "img/01.post.jpg"
 tags:
     - 生活
-	- 日记
+    - 日记
 ---
 
 > “Action!”
