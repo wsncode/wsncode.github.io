@@ -12,7 +12,7 @@ tags:
     - NLP
 ---
 
-> “ACCV2020--Keyoto”
+> “ACCV2020--Kyoto”
 
 
 ## Visual Grounding of Invisible Subjects in Indoor Scenes using Learned Common Sense Graph
