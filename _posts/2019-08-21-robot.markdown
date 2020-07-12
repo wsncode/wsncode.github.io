@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "PRCV2019--Submission"
-subtitle:   " The first international conference paper in life!""
+title:      "机器人——大白"
+subtitle:   "智能机器人平台"
 date:       2019-04-30 12:00:00
 author:     "Saunan"
 header-img: "img/01.post.jpg"
