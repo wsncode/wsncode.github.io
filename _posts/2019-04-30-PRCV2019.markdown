@@ -7,10 +7,10 @@ author:     "Saunan"
 header-img: "img/02.post.jpg"
 tags:
     - Paper
-	- REC
-	- Attributes
-	- CV
-	- NLP
+    - REC
+    - Attributes
+    - CV
+    - NLP
 ---
 
 > “PRCV2019--Xi'an (毕业小论文完成了！)”
